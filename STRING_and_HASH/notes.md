@@ -1,0 +1,3 @@
+- String datatypes can be used to cache a simple valud for a key or a complex result of a SQL query.
+- It can also be used for bitwise operatioins and as atomic counters!
+- By default, the maximum size of a Redis string value is 521 MB.
